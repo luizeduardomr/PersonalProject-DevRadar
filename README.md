@@ -5,6 +5,8 @@
 <h4 align="center">
   ⚠️ Este projeto não foi criado por mim, apenas o desenvolvi a fim praticar meus estudos. Para ver o repositório original, vá para a o fim desta página. ⚠️
 </h4>
+<h6>This project was not created by me, I just developed it in order to practice my studies. To see the original repository, go to the bottom of this page.
+ </h6>
 <br>
 <br>
 
