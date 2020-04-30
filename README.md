@@ -52,5 +52,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat - [Repositório original](https://github.com/Rocketseat/semana-omnistack-10)
+Feito com ♥ by Rocketseat - [Repositório original (Original repository)](https://github.com/Rocketseat/semana-omnistack-10)
 
