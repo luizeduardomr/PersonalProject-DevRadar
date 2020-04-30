@@ -3,8 +3,10 @@
 </h1>
 
 <h4 align="center">
-  ⚠️ Este projeto não foi criado por mim, apenas o desenvolvi a fim praticar meus estudos. Para ver o repositório original, vá para a o fim desta página.
+  ⚠️ Este projeto não foi criado por mim, apenas o desenvolvi a fim praticar meus estudos. Para ver o repositório original, vá para a o fim desta página. ⚠️
 </h4>
+<br>
+<br>
 
 <h4 align="center">
   🚀 Semana OmniStack 10.0
