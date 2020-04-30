@@ -3,6 +3,10 @@
 </h1>
 
 <h4 align="center">
+  ⚠️ Este projeto não foi criado por mim, apenas o desenvolvi a fim praticar meus estudos. Para ver o repositório original, vá para a o fim desta página.
+</h4>
+
+<h4 align="center">
   🚀 Semana OmniStack 10.0
 </h4>
 <p align="center">
@@ -44,4 +48,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat
+Feito com ♥ by Rocketseat - [Repositório original](https://github.com/Rocketseat/semana-omnistack-10)
+
